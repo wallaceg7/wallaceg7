@@ -1,8 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=wallaceg7&color=green)
-
 <div >
   <h1 > 
-    <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="200px" height="200px" />
+    <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="140px" height="140px" />
     # Welcome!</h1> 
 </div>
 
@@ -16,7 +15,7 @@
   <p></p>
 </div>
 <div align="center">
-  <b>"Incluir uma citação"</b>
+  <b>"Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende." - Leonardo Da Vinci</b>
 </div>
 
 

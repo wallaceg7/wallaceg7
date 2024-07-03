@@ -1,10 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=wallaceg7&color=green)
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300px" height="170px" />
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="300px" height="300px" />
 </div>
 
-# Olá, eu sou o Wallace
+# 😎 Olá, eu sou o Wallace
 <div align="center">
   <b>"Incluir uma citação"</b>
 </div>

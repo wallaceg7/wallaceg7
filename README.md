@@ -1,10 +1,19 @@
 ![](https://komarev.com/ghpvc/?username=wallaceg7&color=green)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="300px" height="300px" />
+<div >
+  <h1 > 
+    <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="200px" height="200px" />
+    # Welcome!</h1> 
 </div>
 
-# 😎 Olá, eu sou o Wallace
+<div align="center">
+  <a href="https://www.linkedin.com/in/wallace-goncalves" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  <a href="mailto:wallacejose077@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+  <a href="https://www.instagram.com/_wallace_gonc?utm_source=qr&igsh=MWxpYXlsYjR0aWg2bw==" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"/></a>
+</div>
+
+
+
 <div align="center">
   <b>"Incluir uma citação"</b>
 </div>
@@ -40,7 +49,6 @@
   <a href="https://www.linkedin.com/in/wallace-goncalves" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
   <a href="mailto:wallacejose077@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
   <a href="https://www.instagram.com/_wallace_gonc?utm_source=qr&igsh=MWxpYXlsYjR0aWg2bw==" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"/></a>
-  
 </div>
 
 ## Repositórios Importantes

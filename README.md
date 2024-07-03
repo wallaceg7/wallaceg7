@@ -1,10 +1,21 @@
-# Olá, eu sou o Wallace Gonçalves
-### Detalhes
+![](https://komarev.com/ghpvc/?username=wallaceg7&color=green)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300px" height="170px" />
+</div>
+
+# Olá, eu sou o Wallace
+<div align="center">
+  <b>"Incluir uma citação"</b>
+</div>
+
+
+
+### Sobre mim
 <ul>
-  <li>📒 Graduado em Engenharia da Computação.</li>
-  <li>📒 Buscando oportunidade na área de desenvolvimento back-end.</li>
-  <li>📒 Atualmente estudando e me aprofundando em #C e .Net</li>
-  <li>🧠 Gosto de compartilhar conhecimento</li>
+  <li>💻 Graduado em Engenharia da Computação.</li>
+  <li>🗂 Buscando oportunidade na área de desenvolvimento back-end.</li>
+  <li>📝 Atualmente estudando e me aprofundando em #C, .Net, e análise de dados.</li>
 </ul>
 
 <div>
@@ -25,9 +36,12 @@
 
 
 ## Redes Sociais
-[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' height='30'>](https://www.linkedin.com/in/wallace-goncalves/)
-[<img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=whit' alt='Instagram' height='30'>]([https://www.linkedin.com/in/wallace-goncalves/](https://www.instagram.com/_wallace_gonc?igsh=MWxpYXlsYjR0aWg2bw==))
-
+<div>
+  <a href="https://www.linkedin.com/in/wallace-goncalves" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  <a href="mailto:wallacejose077@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+  <a href="https://www.instagram.com/_wallace_gonc?utm_source=qr&igsh=MWxpYXlsYjR0aWg2bw==" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"/></a>
+  
+</div>
 
 ## Repositórios Importantes
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wallaceg7&repo=Reconhecimento_Voz_Navegador&theme=radical

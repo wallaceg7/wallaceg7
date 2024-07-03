@@ -1,84 +1,65 @@
-<h2 align="left">Olá 👋! Meu nome é Wallace</h2>
+![](https://komarev.com/ghpvc/?username=wallaceg7&color=green)
 
-###
+<div >
+  <h1 > 
+    <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="200px" height="200px" />
+    # Welcome!</h1> 
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wallaceg7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wallaceg7&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=wallaceg7&locale=pt-br&mode=daily&theme=nightowl&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <a href="https://www.linkedin.com/in/wallace-goncalves" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  <a href="mailto:wallacejose077@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+  <a href="https://www.instagram.com/_wallace_gonc?utm_source=qr&igsh=MWxpYXlsYjR0aWg2bw==" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"/></a>
 </div>
 
-###
-
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+<div>
+  <p></p>
 </div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/wallace-goncalves" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:wallacejose077@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/_wallace_gonc?utm_source=qr&igsh=MWxpYXlsYjR0aWg2bw==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCYsDwZGkN7Xv2GlgVssPcXA" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/wallaceg7/wallaceg7/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wallaceg7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wallaceg7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <b>"Incluir uma citação"</b>
 </div>
 
-###
 
+
+## Sobre mim
+<ul>
+  <li>💻 Graduado em Engenharia da Computação.</li>
+  <li>🗂 Buscando oportunidade na área de desenvolvimento back-end.</li>
+  <li>📝 Atualmente estudando e me aprofundando em #C, .Net, e análise de dados.</li>
+</ul>
+
+## Skills
+<!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
+<div>
+  <!-- JAVA --> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <!-- SPRING --> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+  <!-- C# --> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+  <!-- .NET --> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  <!-- PYTHON --> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <!-- ANGULAR --> <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+  <!-- MYSQL --> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <!-- POSTGREE --> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <!-- SQL SERVER --> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  <!-- C --> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=whit">
+  <!-- POSTMAN --> <img src="https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=Postman&logoColor=white">
+  <!-- EXCEL --> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <!-- power bi --> <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <br>
+</div>
+
+## Estatísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wallaceg7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wallaceg7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=wallaceg7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wallaceg7&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=wallaceg7&locale=pt-br&mode=daily&theme=shades-of-purple&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-###
+
+
+## Repositórios Importantes
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wallaceg7&repo=Reconhecimento_Voz_Navegador&theme=radical
+)](https://github.com/anuraghazra/github-readme-stats)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wallaceg7&repo=Reconhecimento_Voz_Navegador&theme=radical
+)](https://github.com/anuraghazra/github-readme-stats)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wallaceg7&repo=Reconhecimento_Voz_Navegador&theme=radical
+)](https://github.com/anuraghazra/github-readme-stats)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wallaceg7&repo=Reconhecimento_Voz_Navegador&theme=radical
+)](https://github.com/anuraghazra/github-readme-stats)
+

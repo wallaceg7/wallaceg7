@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/wallace-goncalves" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-  <a href="mailto:wallacejose077@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+  <a href="mailto:wallacegoncalves0011@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
   <a href="https://www.instagram.com/_wallace_gonc?utm_source=qr&igsh=MWxpYXlsYjR0aWg2bw==" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"/></a>
 </div>
 

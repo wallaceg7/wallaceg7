@@ -48,9 +48,6 @@
 
 
 ## Repositórios Importantes
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wallaceg7&repo=Reconhecimento_Voz_Navegador&theme=radical
-)](https://github.com/anuraghazra/github-readme-stats)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wallaceg7&repo=Reconhecimento_Voz_Navegador&theme=radical
-)](https://github.com/anuraghazra/github-readme-stats)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wallaceg7&repo=Reconhecimento_Voz_Navegador&theme=radical
-)](https://github.com/anuraghazra/github-readme-stats)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wallaceg7&repo=Reconhecimento_Voz_Navegador&theme=radical
-)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wallaceg7&repo=EmprestimoLivros_AspNet
+)](https://github.com/wallaceg7/EmprestimoLivros_AspNet)  
 

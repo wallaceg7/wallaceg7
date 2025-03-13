@@ -22,8 +22,8 @@
 ## Sobre mim
 <ul>
   <li>💻 Graduado em Engenharia da Computação.</li>
-  <li>🗂 Buscando oportunidade na área de desenvolvimento back-end DotNet ou Spring Boot.</li>
-  <li>📝 Atualmente estudando e me aprofundando em #C e DotNet.</li>
+  <li>🗂 Buscando oportunidade na área de desenvolvimento back-end Spring Boot ou Mobile Android.</li>
+  <li>📝 Atualmente estudando e me aprofundando em Java e Kotlin.</li>
 </ul>
 
 ## Skills

@@ -23,7 +23,7 @@
 <ul>
   <li>💻 Graduado em Engenharia da Computação.</li>
   <li>🗂 Buscando oportunidade na área de desenvolvimento back-end Spring Boot ou Mobile Android.</li>
-  <li>📝 Atualmente estudando e me aprofundando em Java e Kotlin.</li>
+  <li>📝 Atualmente estudando e me aprofundando em C# e .Net.</li>
 </ul>
 
 ## Skills

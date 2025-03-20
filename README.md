@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=wallaceg7&color=green)
+
 <div >
   <h1 > 
     # Welcome!</h1> 

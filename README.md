@@ -1,44 +1,130 @@
 
+# 
 <div >
-  <h1 > 
-    # Welcome!</h1> 
+  Olá, eu sou Wallace Gonçalves! 👋
+  Sou bacharel em Engenharia da Computação e apaixonado por tecnologia. Atualmente, estudo desenvolvimento backend com Java e Kotlin, além de gerenciamento de redes e cloud.
+  
+  Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos e crescer profissionalmente na área de desenvolvimento.
+    
+  <ul>
+    <li>💼 Buscando uma oportunidade como desenvolvedor</li>
+    <li>📚 Aprimorando minhas habilidades em backend e cloud</li>
+    <li>🚀 Explorando novas tecnologias e boas práticas</li>
+  </ul>
 </div>
-
-<div align="center">
+  
+<div>
   <a href="https://www.linkedin.com/in/wallace-goncalves" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
   <a href="mailto:wallacegoncalves0011@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
   <a href="https://www.instagram.com/_wallace_gonc?utm_source=qr&igsh=MWxpYXlsYjR0aWg2bw==" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"/></a>
 </div>
 
+---
+### 🤖 Linguagens e Tecnologias
 <div>
-  <p></p>
+  <img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+  />
+  <img 
+      align="left" 
+      alt="Kotlin" 
+      title="Kotlin"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
+  />
+  <img 
+      align="left" 
+      alt="Spring" 
+      title="Spring"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+  />
+  <img 
+      align="left" 
+      alt="Android"
+      title="Android" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="SQL"
+      title="SQL" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+  />
+  <img 
+      align="left" 
+      alt="Terraform"
+      title="Terraform" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"
+    />
+  <img 
+      align="left" 
+      alt="AWS"
+      title="AWS" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+  />
+  <img 
+      align="left" 
+      alt="Grafana"
+      title="Grafana" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg"
+  />
+  <img 
+      align="left" 
+      alt="Docker"
+      title="Docker" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+  />
+  <img 
+      align="left" 
+      alt="Kubernetes"
+      title="Kubernetes" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"
+  />
+  <img 
+      align="left" 
+      alt="Bash"
+      title="Bash" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
+  />
+  <img 
+      align="left" 
+      alt="C++"
+      title="C++" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+  />
 </div>
-<div align="center">
-  <b>"Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende." - Leonardo Da Vinci</b>
-</div>
 
+<br/>
+<br/>
 
-
-## Sobre mim
-<ul>
-  <li>💻 Graduado em Engenharia da Computação.</li>
-  <li>🗂 Buscando oportunidade na área de desenvolvimento back-end Spring Boot ou Mobile Android.</li>
-  <li>📝 Atualmente estudando e me aprofundando em C# e .Net.</li>
-</ul>
-
-## Skills
-<!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
-<div>
-  <!-- C# --> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
-  <!-- .NET --> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <!-- PYTHON --> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <!-- ANGULAR --> <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
-  <!-- SQL SERVER --> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-  <!-- C --> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=whit">
-  <br>
-</div>
-
-## Estatísticas
+---
+### Estatísticas
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wallaceg7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wallaceg7&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="150" alt="languages graph"  />

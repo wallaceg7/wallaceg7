@@ -135,5 +135,6 @@
 
 ## Repositórios Importantes
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wallaceg7&repo=EmprestimoLivros_AspNet
-)](https://github.com/wallaceg7/EmprestimoLivros_AspNet)  
+)](https://github.com/wallaceg7/EmprestimoLivros_AspNet)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wallaceg7&repo=WebApi-CRUD-livros)](https://github.com/wallaceg7/WebApi-CRUD-livros)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wallaceg7&repo=WebApi-Usuarios)](https://github.com/wallaceg7/WebApi-Usuarios) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wallaceg7&repo=whatsapp-bot)](https://github.com/wallaceg7/whatsapp-bot) 
 

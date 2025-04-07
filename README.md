@@ -2,7 +2,7 @@
 # 
 <div >
   Olá, eu sou Wallace Gonçalves! 👋
-  Sou bacharel em Engenharia da Computação e apaixonado por tecnologia. Atualmente, estudo desenvolvimento backend com C#/.Net ou Golang, além de gerenciamento de redes e cloud.
+  Sou bacharel em Engenharia da Computação e apaixonado por tecnologia. Atualmente, estudo desenvolvimento backend com Java/Kotlin, além de gerenciamento de redes e cloud.
   
   Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos e crescer profissionalmente na área de desenvolvimento.
     

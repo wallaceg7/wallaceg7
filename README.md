@@ -7,7 +7,7 @@
   Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos e crescer profissionalmente na área de desenvolvimento.
     
   <ul>
-    <li>💼 Buscando uma oportunidade como desenvolvedor</li>
+    <li>💼 Buscando novas oportunidades de trabalho</li>
     <li>📚 Aprimorando minhas habilidades em backend e cloud</li>
     <li>🚀 Explorando novas tecnologias e boas práticas</li>
   </ul>

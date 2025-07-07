@@ -17,7 +17,6 @@ Atualmente, estudo e aplico tecnologias como:
 - 🔁 **React**  
 - 📱 **Kotlin (Android)**  
 - ☁️ **Cloud (Azure, AWS)**  
-- 🧠 Redes e infraestrutura
 
 ---
 
@@ -47,7 +46,7 @@ Atualmente, estudo e aplico tecnologias como:
 
 - 📧 Email: wallacegoncalves0011@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/wallace-goncalves)  
-- 💻 [Portfólio (caso tenha)](https://seuportfolio.dev)
+- 💻 [Portfólio](https://seuportfolio.dev)
 
 ---
 

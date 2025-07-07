@@ -1,127 +1,59 @@
+# 👋 Olá! Eu sou Wallace Gonçalves
 
-# 
-<div >
-  Olá, eu sou Wallace Gonçalves! 👋
-  Sou bacharel em Engenharia da Computação e apaixonado por tecnologia. Atualmente, estudo desenvolvimento backend com C#/.Net, além de gerenciamento de redes e cloud.
-  
-  Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos e crescer profissionalmente na área de desenvolvimento.
-    
-  <ul>
-    <li>💼 Buscando novas oportunidades de trabalho</li>
-    <li>📚 Aprimorando minhas habilidades em backend e cloud</li>
-    <li>🚀 Explorando novas tecnologias e boas práticas</li>
-  </ul>
-</div>
-  
-<div>
-  <a href="https://www.linkedin.com/in/wallace-goncalves" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-  <a href="mailto:wallacegoncalves0011@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
-  <a href="https://www.instagram.com/_wallace_gonc?utm_source=qr&igsh=MWxpYXlsYjR0aWg2bw==" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"/></a>
-</div>
+🎓 **Bacharel em Engenharia da Computação**  
+💼 **Analista de Sistemas | Desenvolvedor Backend em evolução**  
+🌐 Apaixonado por tecnologia, redes, nuvem e desenvolvimento de soluções inteligentes.
 
 ---
-### 🤖 Linguagens e Tecnologias
-<div>
-  <img 
-    align="left" 
-    alt="C#"
-    title="C#" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-  />
-  <img 
-    align="left" 
-    alt=".Net"
-    title=".Net" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg"
-  />
-  <img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-  />
-  <img 
-      align="left" 
-      alt="Kotlin" 
-      title="Kotlin"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
-  />
-  <img 
-      align="left" 
-      alt="Android"
-      title="Android" 
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" 
-  />
-  <img 
-      align="left" 
-      alt="SQL"
-      title="SQL" 
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
-  />
-  <img 
-      align="left" 
-      alt="Terraform"
-      title="Terraform" 
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"
-    />
-  <img 
-      align="left" 
-      alt="AWS"
-      title="AWS" 
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-  />
-  <img 
-      align="left" 
-      alt="Docker"
-      title="Docker" 
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-  />
-  <img 
-      align="left" 
-      alt="Kubernetes"
-      title="Kubernetes" 
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"
-  />
-  <img 
-      align="left" 
-      alt="Bash"
-      title="Bash" 
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
-  />
-  <img 
-      align="left" 
-      alt="C++"
-      title="C++" 
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-  />
-</div>
 
-<br/>
-<br/>
+## 🚀 Sobre mim
+
+Sou um profissional dedicado e curioso, com sólida experiência em **.NET/C#** e atualmente em constante evolução como desenvolvedor backend. Tenho interesse por **arquiteturas modernas**, **boas práticas de código**, **computação em nuvem** e **desenvolvimento de aplicações escaláveis**.
+
+Atualmente, estudo e aplico tecnologias como:
+
+- 🌐 **ASP.NET Core**  
+- ⚙️ **Node.js**  
+- 🔁 **React**  
+- 📱 **Kotlin (Android)**  
+- ☁️ **Cloud (Azure, AWS)**  
+- 🧠 Redes e infraestrutura
+
+---
+
+## 🎯 Objetivos
+
+- 📌 Consolidar minha carreira como **Desenvolvedor Backend**
+- 🌱 Aprimorar habilidades em **cloud, APIs REST, microsserviços e integração contínua**
+- 🤝 Contribuir com projetos que impactem positivamente as pessoas e a comunidade tech
+- 🔎 Buscar **novas oportunidades de trabalho** que me desafiem e incentivem o crescimento
+
+---
+
+## 💻 Tecnologias e Ferramentas
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+## 📫 Como me encontrar
+
+- 📧 Email: wallacegoncalves0011@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/wallace-goncalves)  
+- 💻 [Portfólio (caso tenha)](https://seuportfolio.dev)
+
+---
+
+### Obrigado por visitar meu perfil! 🚀
+Sinta-se à vontade para explorar meus repositórios ou entrar em contato.
+
 
 ---
 ### Estatísticas

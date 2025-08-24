@@ -8,14 +8,13 @@
 
 ## 🚀 Sobre mim
 
-Sou um profissional dedicado e curioso, com sólida experiência em **.NET/C#** e atualmente em constante evolução como desenvolvedor backend. Tenho interesse por **arquiteturas modernas**, **boas práticas de código**, **computação em nuvem** e **desenvolvimento de aplicações escaláveis**.
+Sou um profissional dedicado e curioso, com experiência em **.NET/C#** e atualmente em constante evolução como desenvolvedor backend. Tenho interesse por **arquiteturas modernas**, **boas práticas de código**, **computação em nuvem** e **desenvolvimento de aplicações escaláveis**.
 
 Atualmente, estudo e aplico tecnologias como:
 
 - 🌐 **ASP.NET Core**  
-- ⚙️ **Node.js**  
-- 🔁 **React**  
-- 📱 **Kotlin (Android)**  
+- ⚙️ **Golang**  
+- 🔁 **React**   
 - ☁️ **Cloud (Azure, AWS)**  
 
 ---
@@ -35,7 +34,6 @@ Atualmente, estudo e aplico tecnologias como:
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)

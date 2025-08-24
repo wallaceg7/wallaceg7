@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Wallace Gonçalves
 
-🎓 **Bacharel em Engenharia da Computação**  
+🎓 **Bacharel em Engenharia da Computação | Licenciado em Matemática **  
 💼 **Analista de Sistemas | Desenvolvedor Backend em evolução**  
 🌐 Apaixonado por tecnologia, redes, nuvem e desenvolvimento de soluções inteligentes.
 

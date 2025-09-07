@@ -30,14 +30,11 @@ Atualmente, foco em **.NET moderno** e **Kotlin**, com interesse em **desenvolvi
 
 - Aprimoramento contínuo em **.NET Core e Kotlin**  
 - Exploração de **microsserviços, mensageria e containers (Docker)**  
-- Aprofundamento em **infraestrutura de APIs, testes automatizados e clean architecture**  
-- Estudo e prática de **design patterns** aplicados ao backend  
 
 ---
 
 ## 📌 Objetivos Profissionais
 
-- Consolidar minha atuação como **Desenvolvedor Backend Pleno/Sênior**  
 - Contribuir com times que valorizem **qualidade de código e arquitetura bem definida**  
 - Participar de projetos que envolvam **desafios reais de performance, escalabilidade e integração**  
 - Compartilhar conhecimento e crescer junto à comunidade tech  

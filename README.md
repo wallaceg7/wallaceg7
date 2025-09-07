@@ -2,7 +2,7 @@
 
 🎓 **Engenheiro da Computação | Licenciando em Matemática**  
 💼 **Analista de Sistemas | Backend Developer**  
-📍 Foco em **.NET e Golang**
+📍 Foco em **.NET e Kotlin**
 
 ---
 
@@ -10,7 +10,7 @@
 
 Sou formado em **Engenharia da Computação** e curso **Licenciatura em Matemática**. Trabalho como **Analista de Sistemas**, com experiência em **C#/.NET, Java, PL/SQL e SQL**.
 
-Atualmente, foco em **.NET moderno** e **Golang**, com interesse em **desenvolvimento backend, APIs** e **sistemas escaláveis**.
+Atualmente, foco em **.NET moderno** e **Kotlin**, com interesse em **desenvolvimento backend, APIs** e **sistemas escaláveis**.
 
 ---
 
@@ -18,8 +18,9 @@ Atualmente, foco em **.NET moderno** e **Golang**, com interesse em **desenvolvi
 
 - 🟣 **C# / .NET (Framework e Core)**  
 - 🟠 **Java (Aplicações desktop e serviços backend)**  
+- 🟢 **Kotlin (Android e Backend)**  
 - 🐘 **PL/SQL / SQL (Oracle e PostgreSQL)**  
-- 🌐 **REST APIs, serviços web e integração de sistemas**
+- 🌐 **REST APIs, serviços web e integração de sistemas**  
 - ☁️ **Conceitos de Cloud (Azure / AWS)**  
 - 🔧 **Versionamento com Git, GitHub e GitLab CI/CD**
 
@@ -27,19 +28,19 @@ Atualmente, foco em **.NET moderno** e **Golang**, com interesse em **desenvolvi
 
 ## 🚀 Em Foco Atualmente
 
-- Aprimoramento contínuo em **.NET Core e Golang**
-- Exploração de **microsserviços, mensageria e containers (Docker)**
-- Aprofundamento em **infraestrutura de APIs, testes automatizados e clean architecture**
-- Estudo e prática de **design patterns** aplicados ao backend
+- Aprimoramento contínuo em **.NET Core e Kotlin**  
+- Exploração de **microsserviços, mensageria e containers (Docker)**  
+- Aprofundamento em **infraestrutura de APIs, testes automatizados e clean architecture**  
+- Estudo e prática de **design patterns** aplicados ao backend  
 
 ---
 
 ## 📌 Objetivos Profissionais
 
-- Consolidar minha atuação como **Desenvolvedor Backend Pleno/Sênior**
-- Contribuir com times que valorizem **qualidade de código e arquitetura bem definida**
-- Participar de projetos que envolvam **desafios reais de performance, escalabilidade e integração**
-- Compartilhar conhecimento e crescer junto à comunidade tech
+- Consolidar minha atuação como **Desenvolvedor Backend Pleno/Sênior**  
+- Contribuir com times que valorizem **qualidade de código e arquitetura bem definida**  
+- Participar de projetos que envolvam **desafios reais de performance, escalabilidade e integração**  
+- Compartilhar conhecimento e crescer junto à comunidade tech  
 
 ---
 
@@ -48,7 +49,7 @@ Atualmente, foco em **.NET moderno** e **Golang**, com interesse em **desenvolvi
 - 📧 Email: [wallacegoncalves0011@gmail.com](mailto:wallacegoncalves0011@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/wallace-goncalves)  
 - 💻 [Portfólio](https://seuportfolio.dev)  
-- 🖥️ GitHub: [github.com/wallaceg7](https://github.com/wallaceg7)
+- 🖥️ GitHub: [github.com/wallaceg7](https://github.com/wallaceg7)  
 
 ---
 
@@ -67,4 +68,4 @@ Atualmente, foco em **.NET moderno** e **Golang**, com interesse em **desenvolvi
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wallaceg7&repo=EmprestimoLivros_AspNet&theme=tokyonight)](https://github.com/wallaceg7/EmprestimoLivros_AspNet)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wallaceg7&repo=WebApi-CRUD-livros&theme=tokyonight)](https://github.com/wallaceg7/WebApi-CRUD-livros)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wallaceg7&repo=WebApi-Usuarios&theme=tokyonight)](https://github.com/wallaceg7/WebApi-Usuarios)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wallaceg7&repo=whatsapp-bot&theme=tokyonight)](https://github.com/wallaceg7/whatsapp-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wallaceg7&repo=whatsapp-bot&theme=tokyonight)](https://github.com/wallaceg7/whatsapp-bot)  
